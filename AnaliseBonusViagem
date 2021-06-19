@@ -29,4 +29,3 @@ for mes in lista_meses:
 # Se for maior do que 55.000 -> Envia um SMS com o nome, o mês e as vendas do vendedor
 
 # Caso nao seja maior do que 55.000 nao fazer nada
-
